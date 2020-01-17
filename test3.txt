@@ -1,0 +1,60 @@
+N=1
+Cost Final : 12523.409550
+Computional Time    1009.794606
+Communicate Time       0.000078
+N=2
+N=3
+N=4
+Cost Final : 12523.409550
+Computional Time     255.672064
+Communicate Time       3.085208
+N= 5
+Cost Final : 12523.409550
+Computional Time     209.232691
+Communicate Time       4.221976
+N =6
+Cost Final : 12523.409550
+Computional Time     176.583451
+Communicate Time       4.786613
+N =7
+Cost Final : 12523.409550
+Computional Time     152.549295
+Communicate Time       5.728038
+N=8
+Cost Final : 12523.409550
+Computional Time     135.340055
+Communicate Time       4.384701
+
+N =9
+Cost Final : 12523.409550
+Computional Time     135.142812
+Communicate Time      49.626268
+N= 10
+Cost Final : 12523.409550
+Computional Time     135.199439
+Communicate Time      60.726804
+
+
+
+N=5 
+Computional time	209.4
+Communication time	422
+N=6
+Computional Time     171.861392
+Communicate Time     312.481719
+N=7
+Computional Time     152.216035
+Communicate Time     286.755065
+N=8
+Computional Time     130.471544
+Communicate Time     432.762990
+N=9
+Computional Time     121.312681
+Communicate Time     346.891612
+N=10
+Computional Time     108.771816
+Communicate Time     314.752778
+
+
+
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1574311131 source:/home/thang/Documents/GA_MPI/Chromosome.cpp
+	"Chromosome.h"
+	"Global.h"
+	<stdio.h>
+	<algorithm>
+
+1574234754 /home/thang/Documents/GA_MPI/Chromosome.h
+
+1572967912 source:/home/thang/Documents/GA_MPI/Main.cpp
+	<stdio.h>
+	"Population.h"
+	"Global.h"
+	<algorithm>
+
+1574415219 source:/home/thang/Documents/GA_MPI/Population.cpp
+	"Population.h"
+	"Global.h"
+	<stdio.h>
+	<algorithm>
+
+1574311321 source:/home/thang/Documents/GA_MPI/Global.cpp
+	"Global.h"
+
+1579010570 /home/thang/Documents/GA_MPI/Global.h
+
+1574307610 /home/thang/Documents/GA_MPI/Population.h
+	<vector>
+	"Chromosome.h"
+
+1576056197 source:/home/thang/Documents/GA_MPI/City.cpp
+	"City.h"
+	<math.h>
+
+1576056132 /home/thang/Documents/GA_MPI/City.h
+
